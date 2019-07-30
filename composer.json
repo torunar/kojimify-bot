@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": ">=7.0",
+        "torunar/kojimify": "^1.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "KojimifyBot\\": [
+                "src"
+            ]
+        }
+    }
+}
